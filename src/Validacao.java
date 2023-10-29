@@ -1,5 +1,5 @@
 public class Validacao {
-    public static String cpf(String s) {
-        return s;
+    public static Boolean cpf(String s) {
+        return true;
     }
 }
